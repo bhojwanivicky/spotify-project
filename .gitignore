@@ -67,3 +67,4 @@ venv.bak/
 .vscode/
 .idea/
 *.sublime-workspace
+.DS_Store
